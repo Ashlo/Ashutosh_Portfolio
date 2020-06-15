@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Ashutosh Bele</title>
+    <link>https://ashlo.github.io/Ashutosh_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Ashutosh Bele</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://ashlo.github.io/Ashutosh_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ashlo.github.io/Ashutosh_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashlo.github.io/Ashutosh_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Twitter: https://twitter.com/ashutoshbele   LinkedIn: https://www.linkedin.com/in/ashutosh-bele-80243516a/   Medium: https://medium.com/@ashutoshbele   GitHub: https://github.com/Ashlo    </description>
+    </item>
+    
+    <item>
+      <title>Project 1: Covid 19 X ray Prediction Flask application</title>
+      <link>https://ashlo.github.io/Ashutosh_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashlo.github.io/Ashutosh_Portfolio/post/project-1/</guid>
+      <description>I built a Covid19 Prediction App to identify whether a person has covid19 or not.They could take thier image of x ray and serve to the web app to get the result. I was able to get the model to predict the Covid with fine accuracy. For most of the cases this would meet the need of an end user of the app. Collected several images of xray from various sources and built an model over it.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Diabetes Prediction (Flask App)</title>
+      <link>https://ashlo.github.io/Ashutosh_Portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashlo.github.io/Ashutosh_Portfolio/post/project-2/</guid>
+      <description>For this example project I built a Diabetes Prediction App to identify whether a person has diabetes or not. This could be useful for someone who is diabetic. They could take thier report of diabetes and an enter into textfields and then the App could serve them the result. This is the underlying model for building something with those capabilities.
+I was able to get the model to predict the diabetes of the patient with 84% accuracy after minimal tuning.</description>
+    </item>
+    
+  </channel>
+</rss>
